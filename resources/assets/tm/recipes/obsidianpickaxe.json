@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "OOO",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "O":
+        {
+            "item": "tm:obsidian_ingot"
+        },
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tm:obsidian_pickaxe",
+        "count": 1
+    }
+}

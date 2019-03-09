@@ -1,0 +1,36 @@
+
+//Items
+item.ruby.name=Ruby
+item.obsidian_ingot.name=Obsidian Ingot
+
+//Tools
+item.ruby_sword.name=Ruby Sword
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+
+item.obsidian_sword.name=Obsidian Sword
+item.obsidian_shovel.name=Obsidian Shovel
+item.obsidian_pickaxe.name=Obsidian Pickaxe
+item.obsidian_axe.name=Obsidian Axe
+item.obsidian_hoe.name=Obsidian Hoe
+
+//Armor
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_leggings.name=Ruby Leggings
+item.ruby_boots.name=Ruby Boots
+
+item.obsidian_helmet.name=Obsidian Helmet
+item.obsidian_chestplate.name=Obsidian Chestplate
+item.obsidian_leggings.name=Obsidian Leggings
+item.obsidian_boots.name=Obsidian Boots
+
+//Blocks
+tile.ruby_block.name=Block of Ruby
+tile.obsidian_ingot_block.name=Block of Obsidian
+tile.ruby_ore.name=Ruby Ore
+
+//Food
+tile.evil_apple.name=Evil Apple
